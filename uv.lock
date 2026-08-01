@@ -12,6 +12,7 @@ dependencies = [
     { name = "fastapi" },
     { name = "isort" },
     { name = "langchain" },
+    { name = "langchain-core" },
     { name = "langchain-ollama" },
     { name = "unicorn" },
 ]
@@ -23,6 +24,7 @@ requires-dist = [
     { name = "fastapi", specifier = ">=0.141.1" },
     { name = "isort", specifier = ">=8.0.1" },
     { name = "langchain", specifier = ">=1.3.14" },
+    { name = "langchain-core", specifier = ">=1.5.3" },
     { name = "langchain-ollama", specifier = ">=1.1.0" },
     { name = "unicorn", specifier = ">=2.1.4" },
 ]
