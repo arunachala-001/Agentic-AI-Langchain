@@ -10,5 +10,9 @@ dependencies = [
     "langchain>=1.3.14",
     "langchain-core>=1.5.3",
     "langchain-ollama>=1.1.0",
+    "langchain-tavily>=0.2.18",
+    "pydantic>=2.13.4",
+    "python-dotenv>=1.2.2",
+    "tavily-python>=0.7.27",
     "unicorn>=2.1.4",
 ]
