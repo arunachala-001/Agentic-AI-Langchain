@@ -7,9 +7,11 @@ load_dotenv()
 
 
 
-
+"""
+@Author: Arun
+"""
 def main():
-    print("Agentic AI running....!")
+    print("Thinking....!")
 
     # Use the constant information text from the package so the entrypoint remains clean
     information = INFORMATION
